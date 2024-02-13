@@ -1,0 +1,18 @@
+.portfolio{
+
+    margin-top: 90px;
+    background-color: #fff;
+}
+.title{
+
+    color: rgb(44, 62, 80);
+}
+.star{
+
+    color: rgb(44, 62, 80);
+}
+.lines{
+    height: 4px;
+    width: 80px;
+    background-color: rgb(44, 62, 80);
+}

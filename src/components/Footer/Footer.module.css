@@ -1,0 +1,22 @@
+.card {
+
+        --bs-card-border-color: none;
+        --bs-card-bg: transparent;
+        color: #fff;
+
+}
+
+.cardGroup {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+}
+
+.footer {
+        background-color: #2c3e50;
+        color: #fff;
+        
+        text-align: center;
+        padding: 40px;
+        margin: 0;
+}
